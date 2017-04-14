@@ -8,4 +8,5 @@
 
 [bajar de github] -> git pull origin master
 
-[crear rama] -> git branch <nombre>
+[crear rama] -> git branch <nobre de la rama>
+
