@@ -7,3 +7,5 @@
 [subir a github] -> git push origin master
 
 [bajar de github] -> git pull origin master
+
+[crear rama] -> git branch <nombre>
