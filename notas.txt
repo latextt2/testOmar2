@@ -4,3 +4,6 @@
 
 [mover a carpeta] -> cd <nombre>
 
+[subir a github] -> git push origin master
+
+[bajar de github] -> git pull origin master
