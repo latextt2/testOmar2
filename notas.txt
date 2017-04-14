@@ -1,3 +1,6 @@
 [cambiar de rama] -> git checkout <nombre de la rama>
 
 [mostrar ramas en log] -> git log --graph
+
+[mover a carpeta] -> cd <nombre>
+
