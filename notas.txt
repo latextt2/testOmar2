@@ -15,3 +15,5 @@
 [ver status] -> git st
 
 [crear commit] -> git cim "nombre"
+
+git al -> git st -> git cim -> git st -> git push
