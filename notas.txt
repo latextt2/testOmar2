@@ -10,3 +10,8 @@
 
 [crear rama] -> git branch <nobre de la rama>
 
+[agregar todos los archivos] -> git al
+
+[ver status] -> git st
+
+[crear commit] -> git cim "nombre"
