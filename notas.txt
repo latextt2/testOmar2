@@ -16,4 +16,6 @@
 
 [crear commit] -> git cim "nombre"
 
-git al -> git st -> git cim -> git st -> git push
+Pasos:
+
+git checkout omar -> [mover cosas] -> git st -> git al -> git st -> git cim -> git st -> git checkout master -> git pull origin master -> git checkout omar -> git merge master -> git st [corregir errores si hay] ->  git al -> git cim -> git checkout master -> git merge omar ->git push origin master
